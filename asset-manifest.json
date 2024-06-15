@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/YuvrajPortfolio/static/css/main.01295505.css",
+    "main.js": "/YuvrajPortfolio/static/js/main.b5566a7d.js",
+    "static/media/resume.jpg": "/YuvrajPortfolio/static/media/resume.69fd3734887c1830eb59.jpg",
+    "static/media/project-01.png": "/YuvrajPortfolio/static/media/project-01.33a265f7c3693f9b7f36.png",
+    "static/media/project02.png": "/YuvrajPortfolio/static/media/project02.b24f7eee751d0b0f45d8.png",
+    "static/media/Tailwind.png": "/YuvrajPortfolio/static/media/Tailwind.9c2e5bcf4f97d73e438e.png",
+    "static/media/Yuviii.jpg": "/YuvrajPortfolio/static/media/Yuviii.61d07ac7e08e5434c214.jpg",
+    "static/media/Cpp.png": "/YuvrajPortfolio/static/media/Cpp.3f8430b31b0960aae7e0.png",
+    "static/media/undraw_startup_life_re_8ow9.svg": "/YuvrajPortfolio/static/media/undraw_startup_life_re_8ow9.dd409f5840447bd06e0cc01c5f4bfadb.svg",
+    "static/media/x-flame-1.png": "/YuvrajPortfolio/static/media/x-flame-1.56d9277ecfde505559a8.png",
+    "static/media/React.png": "/YuvrajPortfolio/static/media/React.53dc6bc56f1c8aa7f441.png",
+    "static/media/tree.png": "/YuvrajPortfolio/static/media/tree.0a70b9a1d3008dfd9dc3.png",
+    "static/media/NodeJs.svg": "/YuvrajPortfolio/static/media/NodeJs.433e55e629432606712bdd47c6e3a61b.svg",
+    "static/media/MongoDB.svg": "/YuvrajPortfolio/static/media/MongoDB.55003af2c629675b0af175687c6970fc.svg",
+    "static/media/Redux.svg": "/YuvrajPortfolio/static/media/Redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/Javascript.svg": "/YuvrajPortfolio/static/media/Javascript.fa3ecb79b97703729d7a0af06b667c22.svg",
+    "static/media/Github.svg": "/YuvrajPortfolio/static/media/Github.e0493221353f5e3333b986e5f4eb50b0.svg",
+    "static/media/Git.svg": "/YuvrajPortfolio/static/media/Git.3a71a2d03b1205894fb1d6dfcfc788a3.svg",
+    "index.html": "/YuvrajPortfolio/index.html",
+    "main.01295505.css.map": "/YuvrajPortfolio/static/css/main.01295505.css.map",
+    "main.b5566a7d.js.map": "/YuvrajPortfolio/static/js/main.b5566a7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01295505.css",
+    "static/js/main.b5566a7d.js"
+  ]
+}
