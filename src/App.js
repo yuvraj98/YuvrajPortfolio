@@ -26,7 +26,8 @@ function App() {
       <NavBar toggleResumeModal={toggleResumeModal} />
       <Hero />
       <Projects />
-      <Skills />
+      <Skills />  
+      
       <Contact />
       <Footer />
       {resumeModalOpen && (
